@@ -10,6 +10,7 @@
     width: 190px;
     height: 45px;
     background-color: var(--button-primary);
+    font-family: var(--font-primary);
   }
 
   a {

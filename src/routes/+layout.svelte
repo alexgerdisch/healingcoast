@@ -8,11 +8,16 @@
 <Footer />
 
 <style>
+  @font-face {
+    font-family: "InstrumentSans";
+    src: url("/fonts/InstrumentSans-variable.ttf");
+  }
   :global(body) {
     margin: 0px;
   }
 
   :global(:root) {
     --button-primary: #d89279;
+    --font-primary: "InstrumentSans";
   }
 </style>
