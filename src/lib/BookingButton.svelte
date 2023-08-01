@@ -7,10 +7,16 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 190px;
+    width: 230px;
+    border-radius: 3px;
     height: 45px;
     background-color: var(--button-primary);
     font-family: var(--font-primary);
+  }
+
+  .booker:hover {
+    background-color: black;
+    color: var(--button-primary);
   }
 
   a {

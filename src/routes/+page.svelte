@@ -1,8 +1,9 @@
 <script>
+  import Hero from "$lib/Hero.svelte";
 </script>
 
 <section id="home-page">
-  <h1>Healing Coast Chiropractic</h1>
+  <Hero />
 </section>
 
 <style>
