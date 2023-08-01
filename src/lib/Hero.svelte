@@ -1,6 +1,5 @@
 <script>
   import BookingButton from "$lib/BookingButton.svelte";
-  import sunsetIllustration from "$lib/assets/sunsetbackgroundillustrated.jpg";
 </script>
 
 <section class="hero-container">
@@ -16,6 +15,7 @@
 
 <style>
   .hero-container {
+    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;

@@ -7,4 +7,7 @@
 </section>
 
 <style>
+  #home-page {
+    margin: 0;
+  }
 </style>
